@@ -1,97 +1,123 @@
-- title: General Information
+- title: About me
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Usama Hamayun Ghouri
     - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: English, Urdu
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Hardware & UAV Engineer
+      institution: WeCrunch - United Arab Emirates 
+      year: Nov 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Responsible for Development of Drones and Mobile Robots for indoors environments
+        - Implementation of Path Planning and Navigation Algorithms.
+        - Development of Test Benches
+        - Development of Customized Electronics for Mobile Robots and Quadcopters
+        - Developed Tethering Power Solution of Drone for Continuous Flight and Operation
+        - Contributed in Integarted AI stack for stock counting and management
+        - Unit testing (rostest, google test)
+        - title: Skills
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - C++, Python
+            - ROS (noetic), ROS2 (humble)
+            - Ubuntu and docker
+            - DJI MSDK
+            - VOXL2 , PIXHAWK, VOXL Cross
+            - Isaac Sim
+            - PCB, Power Electronics, Schematics
+      image: /assets/img/keyper.jpg
+
+    - title: UAV Engineer
+      institution: Salt Lake City, Utah - United States
+      year: Mar 2019 - Sep 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Contributed in Development of Software stack of Fully Autonomous Agriculture Spraying Drone. 
+        - Contributed in Sourcing and Procurement of Drone Hardware.
+        - Implemented Vision Based object detection.
+        - Surveying and Mapping using multispectral Cameras.
+        - Integrated Hydrogen Fuel Cell as a Secondary Power Source along with battery.
+        - title: Skills.
+          contents:
+            - C++
+            - ROS (noetic)
+            - Ubuntu 
+            - Pixhawk, Mission Planning. 
+            - Sourcing, Procurement, Integration.
+            - Power Electronics, PCB.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+      image: /assets/img/icra.jpeg
+    - title: Robotics Software Intern
+      institution: Institute of Industrial and Control Engineering (IOC) - UPC Barcelona
+      year: Oct 2023 - Jan 2024 
       description:
+        - Contributed in updated Packages from ROS to ROS2
+        - Got Familiar with Behavior Trees
+        - title: Skills.
+          contents:
+            - C++, Python
+            - ROS, ROS2
+            - Behavior Trees
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+      image: /assets/img/luvmix.jpg
+    - title: Technical Sales and Support Engineer
+      institution: Salman and Associates - Islamabad, Pakistan
+      year: Sep 2019 - Aug 2022
+      image: /assets/img/masters_thesis.png
+      description:
+        - Presented Companies as a Technical Rep of Various International Companies in pakistan
+        - Providing Bespoke Solutions to industrial clients.
+        - Commissioning and Procurement of Machineries(CNC, Robotic ARMs.
+        - Providing full time after sales and service support.
+        - title: Skills.
+          contents:
+            - Agile
+            - Scrum 
+            - Sales, Marketing.
+            - Commissioning
+            - Procurement
 
-- title: Open Source Projects
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Master's Degree of Automatic Controls and Robotics
+      institution: Polytechnic University of Catalunya
+      year: 2022 - 2025 (Present)
+      description:
+        - 8/10 in the Final Project.
+        - title: Relevant courses.
+          contents:
+            - Advanced robotics.
+            - Advanced control theory.
+            - Model Predictive Controls
+            - Computer Vision
+            - Artificial Intelligence
+    - title: Bachelor's Degree of Mechatronics Engineering
+      institution: Polytechnic University of Valencia
+      year: 2015 - 2029
+      description:
+        - 10/10 on the Final Project, which was based Autonomous Delivery Drones, Won Best Project Award 
+        - Published Research Paper as First Author which was based on Exploring and Implementation of Deep Reinforcement Learning algorithms in Drones 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Further Education
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Courses
+      items: 
+        - Mastering Data Structures & Algorithms using C and C++
+        - Deep Learning applied to Signal and Image Analysis
+        - Intro to Robot Programming ROS
+        - "Computer vision introduction: application development with OpenCV"
+    - title: Readings
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Hands-On Design Patterns with C++
+        - Effective Modern C++
+        - Artificial Intelligence with Python
+        - Advanced Deep Learning with Python
+        - Probabilistic Robotics
+        - Beginning Flutter - A hands On Guide to App Development
+        - Cloud Robotics 
+        - Behavior Trees

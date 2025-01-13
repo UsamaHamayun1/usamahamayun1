@@ -1,25 +1,37 @@
 ---
 layout: about
-title: about
+title: 
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Robotics and Controls Engineer.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>📍 Barcelona, Spain<br>
+       ✉️ usama.humayun1@gmail.com<br>
+       📞 +34 674864741 <br>
+    </p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest post
 social: true # includes social icons at the bottom of the page
 ---
+I am passionate about `Robotics and Software`, always seeking opportunities to expand both personally and professionally. My primary areas of interest are , and I have hands-on experience in navigation , path planning for both UAV's (drones) and AGVs in outdoor and indoor environments . This comes from my previous involvement in projects like a Agriculture surveillance , mapping and spraying drones, autonomous warehouse stock counting system.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Along with that i have contributed in hardware development of drones and mobile robots, espcially in electronics. with early part i've also gained alot of experience in sourcing and procurement of hardware. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently based in the city of `Barcelona` working for `WeCrunch` on Drone and AGV based autonomous warehouse management system. At the same time I am studying a Master's course on `Automatic Controls and Robotics` at the [UPC](https://www.upc.edu/ca).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a summary, I count with `almost 5` years of experience working with:
+* C++
+* Python
+* ROS and ROS2
+* Ubuntu
+* Controls and Motion Planning
+* Electronics Design and Development
+* Procurement and Commissioning
+
+Here you can take a look at my skills, projects I have been working on and some hobbies. In conclusion, anything that makes me happy in this life.
